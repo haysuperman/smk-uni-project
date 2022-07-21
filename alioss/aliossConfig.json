@@ -1,0 +1,7 @@
+{
+    "host": "https://cdnweb.nbcard.com.cn/",
+    "region": "oss-cn-hangzhou",
+    "accessKeyId": "",
+    "accessKeySecret": "",
+    "bucket": "nbsmk-oss"
+}
